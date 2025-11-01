@@ -1,0 +1,6 @@
+question_en,answer_en,explanation_ja,id,topic,pattern,difficulty,source
+How does 'David has already lost the keys' differ from 'David lost the keys in 2019'?,David has already lost the keys. connects to now; David lost the keys in 2019. is detached in time.,現在完了は現在との関連、過去形は単に過去の事実を述べる。,GRAM-000001,present perfect vs past,contrast_present_perfect_vs_past,EASY,synthetic/local
+Compare 'Liam has already taken the project' and 'Liam took the project last year' in terms of meaning and use.,Liam has already taken the project. connects to now; Liam took the project last year. is detached in time.,現在完了は結果・経験・継続のいずれかで現在への影響がある。過去形は時点を切り離す。,GRAM-000002,present perfect vs past,contrast_present_perfect_vs_past,MEDIUM,synthetic/local
+Decide which article fits: 'I bought __ umbrella because it was raining.',Answer: an,母音音は an、子音音は a、特定なら the、一般なら無冠詞。,GRAM-000003,articles (a/an/the/zero),choose_correct_article,HARD,synthetic/local
+"Select the best article for the blank: 'Please open __ door, not the window.'",Correct: the,母音音は an、子音音は a、特定なら the、一般なら無冠詞。,GRAM-000004,articles (a/an/the/zero),choose_correct_article,EASY,synthetic/local
+Write one sentence using the topic: conditionals (0/1/2/3).,A sample sentence about conditionals (0/1/2/3).,トピックの用法を1文で自然に示す。,GRAM-000005,conditionals (0/1/2/3),generic_conditionals,EASY,synthetic/local
