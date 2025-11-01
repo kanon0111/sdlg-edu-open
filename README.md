@@ -112,7 +112,7 @@ TBD（後日確定）。現状は私的利用の範囲で利用可／再配布�
 
 ## Dataset Availability
 - Free 100-sample (Hugging Face): https://huggingface.co/datasets/kanon0111/sdlg-edu-english-qa-samples  
-- Full 10k dataset (paid, Booth): https://booth.pm/ja/items/XXXXXXX
+- Full 10k dataset (paid, Booth): https://booth.pm/ja/items/7586706
 
 This public repository contains code, docs, and small samples only.  
 **Full datasets, generation recipes, and internal pipelines are intentionally excluded.**
