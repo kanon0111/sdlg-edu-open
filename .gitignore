@@ -1,0 +1,10 @@
+data/
+outputs/
+*.jsonl
+*.csv
+*.zip
+recipes/grammar.jsonl
+src/sdlg_edu/run_generate.py
+__pycache__/
+*.ipynb_checkpoints/
+.env
